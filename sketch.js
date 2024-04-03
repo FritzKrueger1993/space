@@ -4,7 +4,7 @@ let xGrowth = [];
 let yGrowth = [];
 let color = [];
 
-let count = 250;
+let count = 150;
 
 function setup() {
   colorMode(HSB,360);
